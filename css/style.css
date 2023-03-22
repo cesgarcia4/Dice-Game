@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    zoom: 68%;
+  overflow-x: hidden;
+    background-color: #b3c9ab ;
+}
+
+.header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#mydice1, #mydice2, #botdice1, #botdice2{
+    width:250px;
+    height:250px;
+}
+
+.card{
+    background-color: #333;
+    color: white;
+  text-align: center;
+  padding: 20px;
+    margin-top: 20px;
+}
+
+#icon{
+    width:150px;
+    height:150px;
+}
+
+.col-3{
+    margin-left: 2em;
+    margin-right: 2em;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.col-4{
+    margin-left: 2em;
+    margin-right: 2em;
+    background-color: white;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+#changeColorButton{
+    background-color: black;
+    color: white;
+    border-radius: 10;
+    
+}
